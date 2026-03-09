@@ -134,8 +134,8 @@ task test_all_full, "Run all tests including OpenSSL":
   exec "nim c -r tests/realworld/libsodium_runner.nim"
   exec "nim c -r tests/realworld/liboqs_runner.nim"
 
-task autopush, "Add, commit, and push with message from valk/progress.md":
-  let path = "valk/progress.md"
+task autopush, "Add, commit, and push with message from iron/progress.md":
+  let path = "iron/progress.md"
   var msg = ""
   if fileExists(path):
     let content = readFile(path)

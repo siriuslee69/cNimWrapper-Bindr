@@ -8,4 +8,7 @@ testBuilds/
 nimble.develop
 nimbledeps
 _tmp_refs/
-valk/valkyrie_config.md
+iron/iron_config.md
+.iron/.local*
+!.iron/.local*.template
+
