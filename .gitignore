@@ -1,0 +1,11 @@
+nimcache/
+**/nimcache_*/
+testBuilds/
+*.exe
+*.dll
+*.obj
+*.pdb
+nimble.develop
+nimbledeps
+_tmp_refs/
+valk/valkyrie_config.md

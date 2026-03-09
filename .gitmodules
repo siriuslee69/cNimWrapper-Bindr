@@ -1,0 +1,15 @@
+[submodule "testCRepos/repos/tiny-AES-c"]
+	path = submodules/tiny-AES-c
+	url = https://github.com/kokke/tiny-AES-c
+[submodule "testCRepos/repos/BLAKE2"]
+	path = submodules/BLAKE2
+	url = https://github.com/BLAKE2/BLAKE2
+[submodule "testCRepos/repos/openssl"]
+	path = submodules/openssl
+	url = https://github.com/openssl/openssl.git
+[submodule "testCRepos/repos/libsodium"]
+	path = submodules/libsodium
+	url = https://github.com/jedisct1/libsodium.git
+[submodule "testCRepos/repos/liboqs"]
+	path = submodules/liboqs
+	url = https://github.com/open-quantum-safe/liboqs.git
